@@ -1,0 +1,6 @@
+D:\Romulo\AulaModelo\AulaModelo.Modelo\bin\Debug\AulaModelo.Modelo.dll
+D:\Romulo\AulaModelo\AulaModelo.Modelo\bin\Debug\AulaModelo.Modelo.pdb
+D:\Romulo\AulaModelo\AulaModelo.Modelo\obj\Debug\AulaModelo.Modelo.csprojResolveAssemblyReference.cache
+D:\Romulo\AulaModelo\AulaModelo.Modelo\obj\Debug\AulaModelo.Modelo.csproj.CoreCompileInputs.cache
+D:\Romulo\AulaModelo\AulaModelo.Modelo\obj\Debug\AulaModelo.Modelo.dll
+D:\Romulo\AulaModelo\AulaModelo.Modelo\obj\Debug\AulaModelo.Modelo.pdb

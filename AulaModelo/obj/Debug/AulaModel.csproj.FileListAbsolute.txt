@@ -22,3 +22,27 @@ D:\Romulo\AulaModelo\AulaModelo\obj\Debug\AulaModel.csprojResolveAssemblyReferen
 D:\Romulo\AulaModelo\AulaModelo\obj\Debug\AulaModel.csproj.CoreCompileInputs.cache
 D:\Romulo\AulaModelo\AulaModelo\obj\Debug\AulaModelo.dll
 D:\Romulo\AulaModelo\AulaModelo\obj\Debug\AulaModelo.pdb
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\AulaModelo.dll.config
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\AulaModelo.dll
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\AulaModelo.pdb
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\AulaModelo.Modelo.dll
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\Microsoft.Web.Infrastructure.dll
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\System.Web.Helpers.dll
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\System.Web.Mvc.dll
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\System.Web.Razor.dll
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\System.Web.Webpages.Deployment.dll
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\System.Web.Webpages.dll
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\System.Web.Webpages.Razor.dll
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\AulaModelo.Modelo.pdb
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\System.Web.Razor.xml
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\System.Web.Webpages.xml
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\System.Web.Webpages.Deployment.xml
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\System.Web.Webpages.Razor.xml
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\System.Web.Helpers.xml
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\bin\System.Web.Mvc.xml
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\obj\Debug\AulaModel.csprojResolveAssemblyReference.cache
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\obj\Debug\AulaModel.csproj.CoreCompileInputs.cache
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\obj\Debug\AulaModelo.dll
+G:\3 Periodo\C# WEB\AulaModelo\AulaModelo\obj\Debug\AulaModelo.pdb

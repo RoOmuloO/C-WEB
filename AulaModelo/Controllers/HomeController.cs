@@ -1,4 +1,4 @@
-﻿using AulaModelo.Modelo.DB.Model;
+using AulaModelo.Modelo.DB.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,45 +12,57 @@ namespace AulaModelo.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            Pessoa.Pessoas.Add(new Pessoa() {
+            //Pessoa.Pessoas.Add(new Pessoa() {
 
-                Id = Guid.NewGuid(),
-                Nome = "Romulo",
-                DtNascimento = DateTime.Now
+            //    Id = Guid.NewGuid(),
+            //    Nome = "Romulo",
+            //    DtNascimento = DateTime.Now
 
-            });
+            //});
 
-            Pessoa.Pessoas.Add(new Pessoa()
-            {
+            //Pessoa.Pessoas.Add(new Pessoa()
+            //{
 
-            Id = Guid.NewGuid(),
-                Nome = "Ramon",
-                DtNascimento = DateTime.Now
+            //Id = Guid.NewGuid(),
+            //    Nome = "Ramon",
+            //    DtNascimento = DateTime.Now
 
-            });
+            //});
 
-            Pessoa.Pessoas.Add(new Pessoa()
-            {
+            //Pessoa.Pessoas.Add(new Pessoa()
+            //{
 
-            Id = Guid.NewGuid(),
-                Nome = "Luiz",
-                DtNascimento = DateTime.Now
+            //Id = Guid.NewGuid(),
+            //    Nome = "Luiz",
+            //    DtNascimento = DateTime.Now
         
-            });
+            //});
 
             return View(Pessoa.Pessoas);
         }
 
         public ActionResult InserirPessoa()
         {
-            return View();
+            return View("EditarPessoa", new Pessoa());
         }
 
         public ActionResult GravarPessoa(Pessoa pessoa)
         {
-            pessoa.Id = Guid.NewGuid();
-            Pessoa.Pessoas.Add(pessoa);
-            //return View("Index", Pessoa.Pessoas);
+            if(pessoa.Id.ToString() == "00000000-0000-0000-0000-000000000000")
+            {
+                pessoa.Id = Guid.NewGuid();
+                Pessoa.Pessoas.Add(pessoa);
+            }
+            else
+            {
+                var p = Pessoa.Pessoas.FirstOrDefault(f => f.Id == pessoa.Id);
+                p.Nome = pessoa.Nome;
+                p.DtNascimento = pessoa.DtNascimento;
+                p.Email = pessoa.Email;
+                p.Telefone = pessoa.Telefone;
+            }
+
+            
             return RedirectToAction("Index");
         }
 
@@ -71,6 +83,17 @@ namespace AulaModelo.Controllers
             {
                 Pessoa.Pessoas.Remove(p);
             }
+            return RedirectToAction("Index");
+        }
+
+        public ActionResult EditarPessoa(Guid id)
+        {
+            var p = Pessoa.Pessoas.FirstOrDefault(f => f.Id == id);
+            if(p != null)
+            {
+                return View(p);
+            }
+
             return RedirectToAction("Index");
         }
 

@@ -1,4 +1,4 @@
-﻿@model IEnumerable<AulaModelo.Modelo.DB.Model.Pessoa>
+@model IEnumerable<AulaModelo.Modelo.DB.Model.Pessoa>
 
 @{
     ViewBag.Title = "Index";
@@ -50,7 +50,7 @@
             @Html.DisplayFor(modelItem => item.Telefone)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Editar", "EditarPessoa", new { id=item.Id }) |
             @Html.ActionLink("Details", "Details", new { id=item.Id }) |
             @Html.ActionLink("Delete", "ApagarPessoa", new { id=item.Id })
         </td>

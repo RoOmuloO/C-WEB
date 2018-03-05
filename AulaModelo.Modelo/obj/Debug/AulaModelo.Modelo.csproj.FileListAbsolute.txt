@@ -10,3 +10,22 @@ G:\3 Periodo\C# WEB\AulaModelo\AulaModelo.Modelo\obj\Debug\AulaModelo.Modelo.csp
 G:\3 Periodo\C# WEB\AulaModelo\AulaModelo.Modelo\obj\Debug\AulaModelo.Modelo.csproj.CoreCompileInputs.cache
 G:\3 Periodo\C# WEB\AulaModelo\AulaModelo.Modelo\obj\Debug\AulaModelo.Modelo.dll
 G:\3 Periodo\C# WEB\AulaModelo\AulaModelo.Modelo\obj\Debug\AulaModelo.Modelo.pdb
+D:\Romulo\C# WEB\AulaModelo\AulaModelo.Modelo\bin\Debug\AulaModelo.Modelo.dll
+D:\Romulo\C# WEB\AulaModelo\AulaModelo.Modelo\bin\Debug\AulaModelo.Modelo.pdb
+D:\Romulo\C# WEB\AulaModelo\AulaModelo.Modelo\obj\Debug\AulaModelo.Modelo.csprojResolveAssemblyReference.cache
+D:\Romulo\C# WEB\AulaModelo\AulaModelo.Modelo\obj\Debug\AulaModelo.Modelo.csproj.CoreCompileInputs.cache
+D:\Romulo\C# WEB\AulaModelo\AulaModelo.Modelo\obj\Debug\AulaModelo.Modelo.dll
+D:\Romulo\C# WEB\AulaModelo\AulaModelo.Modelo\obj\Debug\AulaModelo.Modelo.pdb
+D:\Romulo\C# WEB\AulaModelo\AulaModelo.Modelo\bin\Debug\AulaModelo.Modelo.dll.config
+D:\Romulo\C# WEB\AulaModelo\AulaModelo.Modelo\bin\Debug\Antlr3.Runtime.dll
+D:\Romulo\C# WEB\AulaModelo\AulaModelo.Modelo\bin\Debug\Iesi.Collections.dll
+D:\Romulo\C# WEB\AulaModelo\AulaModelo.Modelo\bin\Debug\MySql.Data.dll
+D:\Romulo\C# WEB\AulaModelo\AulaModelo.Modelo\bin\Debug\NHibernate.dll
+D:\Romulo\C# WEB\AulaModelo\AulaModelo.Modelo\bin\Debug\Remotion.Linq.dll
+D:\Romulo\C# WEB\AulaModelo\AulaModelo.Modelo\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\Romulo\C# WEB\AulaModelo\AulaModelo.Modelo\bin\Debug\Antlr3.Runtime.xml
+D:\Romulo\C# WEB\AulaModelo\AulaModelo.Modelo\bin\Debug\Iesi.Collections.xml
+D:\Romulo\C# WEB\AulaModelo\AulaModelo.Modelo\bin\Debug\MySql.Data.xml
+D:\Romulo\C# WEB\AulaModelo\AulaModelo.Modelo\bin\Debug\NHibernate.xml
+D:\Romulo\C# WEB\AulaModelo\AulaModelo.Modelo\bin\Debug\Remotion.Linq.xml
+D:\Romulo\C# WEB\AulaModelo\AulaModelo.Modelo\bin\Debug\Remotion.Linq.EagerFetching.xml
